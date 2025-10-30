@@ -1,0 +1,15 @@
+# Python
+__pycache__
+
+
+# Virtual Environment
+venv
+
+
+# Environment Variables
+.env
+
+# ML Models (these can be large)
+ml_models
+
+
